@@ -1,12 +1,12 @@
 ### Hi there 👋, here is SamuNatsu
 
-Other often used nick names by myself are: **SNRainiar**, **Rainiar**, **SamunatsuRainiar**
+Other often used nick names: **SNRainiar**, **Rainiar**, **SamunatsuRainiar**
 
-### About me
+### About
 
-Here is my almost abandoned blog: <https://rainiar.top>
+My blog (zh_CN): <https://rainiar.top>
 
-Only updated when I have interest
+Update from time to time.
 
 ### Github statistics
 
