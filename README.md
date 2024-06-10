@@ -8,8 +8,8 @@ Other nicknames: **SNRainiar**, **Rainiar**, **SamunatsuRainiar**
 * **Blog(zh-CN):** <https://blog.rainiar.top>  
 * **P2P Transfer:** <https://p2p.rainiar.top>
 
-### Github statistics
+### Github stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="SamuNatsu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SamuNatsu&count_private=true&show_icons=true&theme=one_dark_pro&hide_border=true&include_all_commits=true" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuNatsu&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuNatsu&layout=compact&theme=one_dark_pro&hide_border=true&" /></a>
+[![SamuNatsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuNatsu&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
